@@ -1,0 +1,46 @@
+Body {
+    background-color: #5f5f5f;
+}
+.black-line {
+    border: 10px solid black;
+}
+.card-title {
+    background-color: #000000;
+    font-weight: bold;
+    color : #ffffff;
+    text-align: center;
+    font-family : garamond;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+.card-body {
+    background-color: #5f5f5f;
+    color : #ffffff;
+    text-align: center;
+    font-family : garamond;
+}
+.info {
+    text-align: left;
+}
+.list-group-item {
+    text-align : left;
+    background : #2f2f2f;
+}
+td {
+    font-size : 20px;
+}
+p  {
+    font-size : 18px;
+}
+.btn-secondary {
+    font-size : 20px;
+}
+.img-fluid {
+    width : 200px;
+    height : 200px;
+}
+li {
+    text-align: left;
+    color: #ffffff;
+}
